@@ -1,0 +1,56 @@
+@import "bootstrap";
+@import "**/*";
+
+body{
+  background-color: #565656;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
+
+.main{
+  text-align:center;
+
+  p{
+    color:green;
+  }
+
+  h1{
+    color:white;
+  }
+}
+
+.container{
+  text-align:center;
+  
+
+  p{
+    color:white;
+  }
+}
+
+.modal-body{
+  background-color:white;
+  border-top:1px solid #646464;
+  border-bottom:1px solid #646464;
+   
+  tbody td{
+    border: solid 2px #646464;
+  }
+
+  thead th{
+    border: solid 2px #646464;
+  }
+}
+
+.modal-title{
+  color:black;
+}
+
+.btn{
+  color:white;
+  margin:5px;
+}
+
+
+
